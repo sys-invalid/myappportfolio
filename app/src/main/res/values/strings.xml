@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+    <string name="lblAppName">My Nanodegree Apps</string>
+    <string name="toast_message">This button will launch my %s app!</string>
+    <string-array name="appnames">
+        <item>Spotify Streamer</item>
+        <item>Super Duo (2 buttons: Football Scores App and Library App)</item>
+        <item>Build It Bigger</item>
+        <item>XYZ Reader</item>
+        <item>Capstone</item>
+    </string-array>
+</resources>
